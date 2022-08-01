@@ -1,0 +1,19 @@
+div {
+    display: inline-block;
+    text-align: center;
+}
+
+img {
+    display: block;
+    
+}
+
+body {
+    background-color: #f0f03e;
+}
+
+h1 {
+    color: #e61818;
+    text-align: center;
+    font-size: 100px;
+}
